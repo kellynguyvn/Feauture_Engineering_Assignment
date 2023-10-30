@@ -1,5 +1,5 @@
 # Feauture Engineering Assignment
-Learning Objective: the purpose of the assignment is to derive feature engineering spectrograms of wave files:
+Learning Objective: the purpose of the assignment is to derive feature engineering spectrograms of wave files
 
 ## What each file contains:
 1. Display a spectrogram/chromagram/cqt/etc. 
